@@ -48,7 +48,7 @@ export function Hero() {
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 rounded-full blur-3xl"></div>
               <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-primary/20">
                 <Image
-                  src="/profilepic.jpg"
+                  src="/profilepic2.jpg"
                   alt="Saran - Professional Photographer and Graphic Designer"
                   fill
                   className="object-cover"
